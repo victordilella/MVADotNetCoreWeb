@@ -240,6 +240,7 @@ C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNet
 C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
 C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Data\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Models\ApplicationUser.cs
+C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Models\Movie.cs
 C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Models\AccountViewModels\ForgotPasswordViewModel.cs
 C:\Users\dilellav\Source\my_code\MVADotNetCoreWeb\MVADotNetCoreWeb\src\MVADotNetCoreWeb\Models\AccountViewModels\LoginViewModel.cs
